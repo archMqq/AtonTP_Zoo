@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\archMqq\\Documents\\\u0421\u0442\u0430\u0436\u0438\u0440\u043E\u0432\u043A\u0430\\ClassLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55EE3431-A555-486F-BA15-189E87512FB6}|..\\AtonTPTester\\AtonTPTester.csproj|c:\\users\\archmqq\\documents\\\u0441\u0442\u0430\u0436\u0438\u0440\u043E\u0432\u043A\u0430\\atontptester\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6346F4-DD22-40B9-BFD6-A9826A8D06D3}|AtonTP.csproj|c:\\users\\archmqq\\documents\\\u0441\u0442\u0430\u0436\u0438\u0440\u043E\u0432\u043A\u0430\\classlibrary1\\filereaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6346F4-DD22-40B9-BFD6-A9826A8D06D3}|AtonTP.csproj|solutionrelative:filereaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6346F4-DD22-40B9-BFD6-A9826A8D06D3}|AtonTP.csproj|c:\\users\\archmqq\\documents\\\u0441\u0442\u0430\u0436\u0438\u0440\u043E\u0432\u043A\u0430\\classlibrary1\\containers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6346F4-DD22-40B9-BFD6-A9826A8D06D3}|AtonTP.csproj|solutionrelative:containers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6346F4-DD22-40B9-BFD6-A9826A8D06D3}|AtonTP.csproj|c:\\users\\archmqq\\documents\\\u0441\u0442\u0430\u0436\u0438\u0440\u043E\u0432\u043A\u0430\\classlibrary1\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6346F4-DD22-40B9-BFD6-A9826A8D06D3}|AtonTP.csproj|solutionrelative:animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\archMqq\\Documents\\\u0421\u0442\u0430\u0436\u0438\u0440\u043E\u0432\u043A\u0430\\AtonTPTester\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\AtonTPTester\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\archMqq\\Documents\\\u0421\u0442\u0430\u0436\u0438\u0440\u043E\u0432\u043A\u0430\\AtonTPTester\\UnitTest1.cs",
+              "RelativeToolTip": "..\\AtonTPTester\\UnitTest1.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:54:40.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Containers.cs",
+              "DocumentMoniker": "C:\\Users\\archMqq\\Documents\\\u0421\u0442\u0430\u0436\u0438\u0440\u043E\u0432\u043A\u0430\\ClassLibrary1\\Containers.cs",
+              "RelativeDocumentMoniker": "Containers.cs",
+              "ToolTip": "C:\\Users\\archMqq\\Documents\\\u0421\u0442\u0430\u0436\u0438\u0440\u043E\u0432\u043A\u0430\\ClassLibrary1\\Containers.cs",
+              "RelativeToolTip": "Containers.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAjwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:11:48.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileReaders.cs",
+              "DocumentMoniker": "C:\\Users\\archMqq\\Documents\\\u0421\u0442\u0430\u0436\u0438\u0440\u043E\u0432\u043A\u0430\\ClassLibrary1\\FileReaders.cs",
+              "RelativeDocumentMoniker": "FileReaders.cs",
+              "ToolTip": "C:\\Users\\archMqq\\Documents\\\u0421\u0442\u0430\u0436\u0438\u0440\u043E\u0432\u043A\u0430\\ClassLibrary1\\FileReaders.cs",
+              "RelativeToolTip": "FileReaders.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA7wDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:26:38.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animals.cs",
+              "DocumentMoniker": "C:\\Users\\archMqq\\Documents\\\u0421\u0442\u0430\u0436\u0438\u0440\u043E\u0432\u043A\u0430\\ClassLibrary1\\Animals.cs",
+              "RelativeDocumentMoniker": "Animals.cs",
+              "ToolTip": "C:\\Users\\archMqq\\Documents\\\u0421\u0442\u0430\u0436\u0438\u0440\u043E\u0432\u043A\u0430\\ClassLibrary1\\Animals.cs",
+              "RelativeToolTip": "Animals.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAUwFQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:35:42.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

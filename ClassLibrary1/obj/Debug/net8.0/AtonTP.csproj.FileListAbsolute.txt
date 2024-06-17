@@ -1,0 +1,12 @@
+C:\Users\archMqq\Documents\Стажировка\ClassLibrary1\bin\Debug\net8.0\AtonTP.deps.json
+C:\Users\archMqq\Documents\Стажировка\ClassLibrary1\bin\Debug\net8.0\AtonTP.dll
+C:\Users\archMqq\Documents\Стажировка\ClassLibrary1\bin\Debug\net8.0\AtonTP.pdb
+C:\Users\archMqq\Documents\Стажировка\ClassLibrary1\obj\Debug\net8.0\AtonTP.csproj.AssemblyReference.cache
+C:\Users\archMqq\Documents\Стажировка\ClassLibrary1\obj\Debug\net8.0\AtonTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\archMqq\Documents\Стажировка\ClassLibrary1\obj\Debug\net8.0\AtonTP.AssemblyInfoInputs.cache
+C:\Users\archMqq\Documents\Стажировка\ClassLibrary1\obj\Debug\net8.0\AtonTP.AssemblyInfo.cs
+C:\Users\archMqq\Documents\Стажировка\ClassLibrary1\obj\Debug\net8.0\AtonTP.csproj.CoreCompileInputs.cache
+C:\Users\archMqq\Documents\Стажировка\ClassLibrary1\obj\Debug\net8.0\AtonTP.dll
+C:\Users\archMqq\Documents\Стажировка\ClassLibrary1\obj\Debug\net8.0\refint\AtonTP.dll
+C:\Users\archMqq\Documents\Стажировка\ClassLibrary1\obj\Debug\net8.0\AtonTP.pdb
+C:\Users\archMqq\Documents\Стажировка\ClassLibrary1\obj\Debug\net8.0\ref\AtonTP.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ExGRwFwyUyk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\archMqq\\Documents\\Стажировка\\ClassLibrary1\\AtonTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\archMqq\\.nuget\\packages\\csvhelper\\32.0.3\\csvhelper.32.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
